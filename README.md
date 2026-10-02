@@ -35,4 +35,6 @@ Nano Editor
 Terminal Linux
 Conclusão
 
-Este projeto serviu como uma aplicação prática dos conceitos de criptografia em Python, permitindo o aprendizado sobre proteção de dados e manipulação de arquivos em ambiente Linux. Os testes realizados no Kali Linux confirmaram a eficiência da solução desenvolvida e contribuíram para o aprimoramento dos conhecimentos em programação e segurança da informação.
+Este projeto serviu como uma aplicação prática dos conceitos de criptografia em Python, permitindo o aprendizado sobre proteção de dados e manipulação de arquivos em ambiente Linux. Os testes realizados no Kali Linux confirmaram a eficiência da solução desenvolvida e contribuíram para o aprimoramento dos conhecimentos em programação e segurança da informação. 
+
+os codigos erstão no repositorio.
